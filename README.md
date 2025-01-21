@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sleep Health Dashboard
 
 This repository contains a Streamlit dashboard application designed to provide insightful visualizations and data analysis from [sleep health dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/). Follow the instructions below to set up and run the application.
@@ -108,3 +109,10 @@ To stop the Streamlit application, you can use `Ctrl + C` in the terminal where 
 - For more information on Streamlit features and functions, refer to the [Streamlit Cheat Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet).
 
 - To learn how to deploy your Streamlit application, check the instructions at [Deploying Streamlit Apps](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app).
+=======
+# Dicoding-Elite
+----------------------------------------
+Activate
+Local URL: http://localhost:8501
+Network URL: http://192.168.100.111:8501
+>>>>>>> 3112b50e1c445e04e6c31e0cd5f723f605410327
