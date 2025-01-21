@@ -87,7 +87,7 @@ cd dashboard
 Start the Streamlit application by executing the following command:
 
 ```bash
-streamlit run main.py
+streamlit run dashboard/main.py
 ```
 
 This command will start the Streamlit server and provide you with a local URL (usually `http://localhost:8501`) to view the dashboard in your web browser.
